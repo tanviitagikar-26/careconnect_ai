@@ -1,0 +1,7 @@
+{
+  "name": "CareConnect",
+  "description": "AI-powered social impact platform transforming unstructured care-home needs into actionable support for children and elderly residents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
